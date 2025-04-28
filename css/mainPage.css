@@ -298,7 +298,11 @@ a {
     color: #333;
     margin-bottom: 10px;
 }
-
+.service h3 {
+    font-size: 20px;
+    color: #7A2627;
+    margin-bottom: 10px;
+}
 .service p {
     font-size: 16px;
     color: #666;
